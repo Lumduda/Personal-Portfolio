@@ -43,10 +43,10 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 170px;
+  width: 175px;
   height: 48px;
   margin: 0 auto;
-  border: 1px solid rgba(255, 255, 255, 1);
+  border: 2px solid rgba(255, 255, 255, 1);
   border-radius: 8px;
 }
 
@@ -57,4 +57,5 @@
   background-color: transparent;
   border: none;
   margin-left: 8px;
+  text-decoration: none;
 }
