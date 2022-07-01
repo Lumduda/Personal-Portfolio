@@ -1,0 +1,57 @@
+.main-content {
+  padding: 7px 41px 0px 41px;
+  padding: 64px 54px 64px 54px;
+  text-align: center;
+  background: #272728;
+  font-family: 'DM Sans', sans-serif;
+  color: #ffffff;
+}
+
+.main-content h1 {
+  font-weight: 500;
+  font-size: 2.125rem;
+  margin-bottom: 1rem;
+}
+
+.main-content h1 span {
+  color: rgba(71, 209, 110, 1);
+}
+
+.main-content p {
+  font-weight: 500;
+  font-size: 1.25rem;
+}
+
+.repo-btn a {
+  width: fit-content;
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+  padding: 16px 31px;
+  border-radius: 8px;
+  background-color: rgba(71, 209, 110, 1);
+  margin-top: 24px;
+  margin-bottom: 16px;
+}
+
+.download-btn{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 170px;
+  height: 48px;
+  margin: 0 auto;
+  border: 1px solid rgba(255, 255, 255, 1);
+  border-radius: 8px;
+}
+
+.cv-btn{
+  font-family: 'DM Sans', sans-serif;
+  color: #ffffff;
+  font-weight: 500;
+  background-color: transparent;
+  border: none;
+  margin-left: 8px;
+}
