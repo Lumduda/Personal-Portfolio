@@ -1,8 +1,11 @@
+.main{
+  background: #272728;
+}
+
 .main-content {
   padding: 7px 41px 0px 41px;
   padding: 64px 54px 64px 54px;
   text-align: center;
-  background: #272728;
   font-family: 'DM Sans', sans-serif;
   color: #ffffff;
 }

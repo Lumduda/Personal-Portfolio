@@ -1,9 +1,12 @@
+header{
+  background: #272728;
+}
+
 .header{
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 18px 16px;
-  background: #272728;
   border-bottom: 1px solid rgba(23, 23, 24, 0.65);
 }
 
